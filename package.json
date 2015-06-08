@@ -1,0 +1,28 @@
+{
+  "name": "safe-json",
+  "version": "0.0.1",
+  "description": "Simple lib for safe working with JSON (supports defaults)",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^5.5.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsifalda/safe-json.git"
+  },
+  "keywords": [
+    "json",
+    "safe",
+    "defaults"
+  ],
+  "author": "Jiri Sifalda <sifalda.jiri@gmail.com> (http://jsifalda.name/)",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/jsifalda/safe-json/issues"
+  },
+  "homepage": "https://github.com/jsifalda/safe-json#readme"
+}

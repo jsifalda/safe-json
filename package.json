@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/jsifalda/safe-json#readme",
   "publishConfig": {
-    "registry": "http://npmjs.com"
+    "registry": "http://registry.npmjs.org/"
   }
 }

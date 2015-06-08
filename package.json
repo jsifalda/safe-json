@@ -1,6 +1,6 @@
 {
   "name": "safe-json",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "description": "Simple lib for safe working with JSON (supports defaults)",
   "main": "lib/index.js",
   "dependencies": {},

@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/jsifalda/safe-json/issues"
   },
-  "homepage": "https://github.com/jsifalda/safe-json#readme"
+  "homepage": "https://github.com/jsifalda/safe-json#readme",
+  "publishConfig": {
+    "registry": "http://npmjs.com"
+  }
 }
